@@ -1,0 +1,3 @@
+[submodule "CoreUtility"]
+	path = CoreUtility
+	url = https://github.com/Tobiasz2817/CoreUtility
